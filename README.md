@@ -16,8 +16,8 @@ This project is an automation testing suite for a Web Logistics using WebDriverI
 1. **Clone the Repository**  
    Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/esmeraldawgs/wdio-automation-test-logistics-web.git
-    `cd repository`
+   `git clone https://github.com/esmeraldawgs/wdio-automation-test-logistics-web.git`
+   `cd repository`
 
 2. **Install Dependencies**
    Install the required dependencies:
